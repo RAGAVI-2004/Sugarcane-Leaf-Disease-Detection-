@@ -8,6 +8,7 @@ The model is built using DenseNet121 (a pre-trained CNN model), fine-tuned for b
 🌿 Sugarcane Leaf Disease Detection — Project Overview in Steps
 Step 1: Data Collection
 Gathered a dataset of sugarcane leaf images labeled as Healthy or Diseased.
+![Screenshot 2025-04-06 221149](https://github.com/user-attachments/assets/5bb71fa3-fc32-4ce0-bca6-166c1d5218bc)
 
 Ensured the dataset covers different types of diseases for accuracy.
 
