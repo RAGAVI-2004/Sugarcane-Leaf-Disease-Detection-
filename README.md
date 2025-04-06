@@ -2,6 +2,9 @@
 
 🌿 Project Title: Sugarcane Leaf Disease Detection Using Deep Learning
 
+Dataset:
+Link to Dataset: https://www.kaggle.com/datasets/roshitab/sugarcane-leaf-disease-dataset
+
 This project focuses on identifying diseases in sugarcane leaves using a deep learning model. By analyzing images of sugarcane leaves, the model predicts whether the leaf is healthy or infected. It helps farmers and agricultural professionals detect plant diseases early and take preventive action to avoid crop loss.
 The model is built using DenseNet121 (a pre-trained CNN model), fine-tuned for binary classification (healthy vs. diseased). The entire solution is packaged into a user-friendly web app using Streamlit, where users can upload leaf images and receive instant predictions along with precautionary advice or maintenance tips.
 
